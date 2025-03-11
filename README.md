@@ -23,6 +23,7 @@ I specialize in **building scalable, high-performance software solutions** with 
 
 💡 **Passion Projects & Interests**<br>
 🔹 AI & IoT-powered solutions<br>
+🔹 Blockchain and decentralization<br>
 🔹 Open-source contributions & knowledge sharing<br>
 🔹 Performance monitoring & observability<br>
 🔹 Secure, privacy-first software development<br>
