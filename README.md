@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ulwazi Mapukata
 
-**Software Engineer | Technical Lead | Founder & Director at [Fakade Innovations](https://fakade.co.za) | Building [M-Works™](https://www.m-works.co.za)**
+**Software Engineer | Technical Lead | Founder & Director at [Fakade Innovations](https://fakade.co.za) | Building [M-Works™](https://m-works.co.za)**
 
 I build software that solves practical business problems.
 
